@@ -1,0 +1,15 @@
+C:\Users\TRONG\Desktop\DoAn_LTHDT\DAL\bin\Debug\net5.0\DAL.deps.json
+C:\Users\TRONG\Desktop\DoAn_LTHDT\DAL\bin\Debug\net5.0\DAL.dll
+C:\Users\TRONG\Desktop\DoAn_LTHDT\DAL\bin\Debug\net5.0\ref\DAL.dll
+C:\Users\TRONG\Desktop\DoAn_LTHDT\DAL\bin\Debug\net5.0\DAL.pdb
+C:\Users\TRONG\Desktop\DoAn_LTHDT\DAL\bin\Debug\net5.0\ENTITIES.dll
+C:\Users\TRONG\Desktop\DoAn_LTHDT\DAL\bin\Debug\net5.0\ENTITIES.pdb
+C:\Users\TRONG\Desktop\DoAn_LTHDT\DAL\obj\Debug\net5.0\DAL.csproj.AssemblyReference.cache
+C:\Users\TRONG\Desktop\DoAn_LTHDT\DAL\obj\Debug\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TRONG\Desktop\DoAn_LTHDT\DAL\obj\Debug\net5.0\DAL.AssemblyInfoInputs.cache
+C:\Users\TRONG\Desktop\DoAn_LTHDT\DAL\obj\Debug\net5.0\DAL.AssemblyInfo.cs
+C:\Users\TRONG\Desktop\DoAn_LTHDT\DAL\obj\Debug\net5.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\TRONG\Desktop\DoAn_LTHDT\DAL\obj\Debug\net5.0\DAL.csproj.CopyComplete
+C:\Users\TRONG\Desktop\DoAn_LTHDT\DAL\obj\Debug\net5.0\DAL.dll
+C:\Users\TRONG\Desktop\DoAn_LTHDT\DAL\obj\Debug\net5.0\ref\DAL.dll
+C:\Users\TRONG\Desktop\DoAn_LTHDT\DAL\obj\Debug\net5.0\DAL.pdb

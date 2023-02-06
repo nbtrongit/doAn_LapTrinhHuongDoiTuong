@@ -1,0 +1,38 @@
+﻿@page
+@model DOAN.Pages.HoaDonNhapModel
+@using ENTITIES
+
+<h4>Hóa Đơn Nhập</h4>
+<form method="post">
+    <label>Tìm kiếm</label>
+    <input type="text" name="tuKhoa" pattern="^[^\s]+(\s+[^\s]+)*$">
+    <button type="submit" value="Tìm kiếm">Tìm Kiếm</button>
+    <a href='themHoaDonNhap'><button type="button">Thêm</button></a>
+    <a href="index"><button type="button">Index</button></a>
+</form>
+<br>
+<table>
+    <tr>
+        <td>Mã hóa đơn</td>
+        <td>Ngày hóa đơn</td>
+        <td>Mã Hàng</td>
+        <td>Số lượng</td>
+        <td>Đơn giá</td>
+        <td>Thành Tiền</td>
+        <td></td>
+    </tr>
+    @foreach (HoaDonNhap hdn in Model.dsHoaDonNhap)
+    {
+<tr>
+    <td>@hdn.maHoaDon</td>
+    <td>@hdn.ngayHoaDon.Ngay/@hdn.ngayHoaDon.Thang/@hdn.ngayHoaDon.Nam</td>
+    <td>@hdn.maHang</td>
+    <td>@hdn.soLuong</td>
+    <td>@hdn.donGia</td>
+    <td>@(hdn.donGia * hdn.soLuong)đ</td>
+    <td>
+        <button type="button" onclick="location.href='suaHoaDonNhap?id=@hdn.maHang'">Sửa</button>
+        <button type="button" onclick="location.href='xoaHoaDonNhap?id=@hdn.maHang'">Xóa</button>
+    </td>
+</tr>}
+</table>

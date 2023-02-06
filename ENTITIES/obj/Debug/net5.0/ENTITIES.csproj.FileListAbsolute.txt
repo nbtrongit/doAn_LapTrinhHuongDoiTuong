@@ -1,0 +1,12 @@
+C:\Users\TRONG\Desktop\DoAn_LTHDT\ENTITIES\bin\Debug\net5.0\ENTITIES.deps.json
+C:\Users\TRONG\Desktop\DoAn_LTHDT\ENTITIES\bin\Debug\net5.0\ENTITIES.dll
+C:\Users\TRONG\Desktop\DoAn_LTHDT\ENTITIES\bin\Debug\net5.0\ref\ENTITIES.dll
+C:\Users\TRONG\Desktop\DoAn_LTHDT\ENTITIES\bin\Debug\net5.0\ENTITIES.pdb
+C:\Users\TRONG\Desktop\DoAn_LTHDT\ENTITIES\obj\Debug\net5.0\ENTITIES.csproj.AssemblyReference.cache
+C:\Users\TRONG\Desktop\DoAn_LTHDT\ENTITIES\obj\Debug\net5.0\ENTITIES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TRONG\Desktop\DoAn_LTHDT\ENTITIES\obj\Debug\net5.0\ENTITIES.AssemblyInfoInputs.cache
+C:\Users\TRONG\Desktop\DoAn_LTHDT\ENTITIES\obj\Debug\net5.0\ENTITIES.AssemblyInfo.cs
+C:\Users\TRONG\Desktop\DoAn_LTHDT\ENTITIES\obj\Debug\net5.0\ENTITIES.csproj.CoreCompileInputs.cache
+C:\Users\TRONG\Desktop\DoAn_LTHDT\ENTITIES\obj\Debug\net5.0\ENTITIES.dll
+C:\Users\TRONG\Desktop\DoAn_LTHDT\ENTITIES\obj\Debug\net5.0\ref\ENTITIES.dll
+C:\Users\TRONG\Desktop\DoAn_LTHDT\ENTITIES\obj\Debug\net5.0\ENTITIES.pdb

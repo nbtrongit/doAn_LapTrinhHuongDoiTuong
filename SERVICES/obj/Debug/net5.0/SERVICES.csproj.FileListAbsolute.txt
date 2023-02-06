@@ -1,0 +1,17 @@
+C:\Users\TRONG\Desktop\DoAn_LTHDT\SERVICES\bin\Debug\net5.0\SERVICES.deps.json
+C:\Users\TRONG\Desktop\DoAn_LTHDT\SERVICES\bin\Debug\net5.0\SERVICES.dll
+C:\Users\TRONG\Desktop\DoAn_LTHDT\SERVICES\bin\Debug\net5.0\ref\SERVICES.dll
+C:\Users\TRONG\Desktop\DoAn_LTHDT\SERVICES\bin\Debug\net5.0\SERVICES.pdb
+C:\Users\TRONG\Desktop\DoAn_LTHDT\SERVICES\bin\Debug\net5.0\DAL.dll
+C:\Users\TRONG\Desktop\DoAn_LTHDT\SERVICES\bin\Debug\net5.0\ENTITIES.dll
+C:\Users\TRONG\Desktop\DoAn_LTHDT\SERVICES\bin\Debug\net5.0\DAL.pdb
+C:\Users\TRONG\Desktop\DoAn_LTHDT\SERVICES\bin\Debug\net5.0\ENTITIES.pdb
+C:\Users\TRONG\Desktop\DoAn_LTHDT\SERVICES\obj\Debug\net5.0\SERVICES.csproj.AssemblyReference.cache
+C:\Users\TRONG\Desktop\DoAn_LTHDT\SERVICES\obj\Debug\net5.0\SERVICES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TRONG\Desktop\DoAn_LTHDT\SERVICES\obj\Debug\net5.0\SERVICES.AssemblyInfoInputs.cache
+C:\Users\TRONG\Desktop\DoAn_LTHDT\SERVICES\obj\Debug\net5.0\SERVICES.AssemblyInfo.cs
+C:\Users\TRONG\Desktop\DoAn_LTHDT\SERVICES\obj\Debug\net5.0\SERVICES.csproj.CoreCompileInputs.cache
+C:\Users\TRONG\Desktop\DoAn_LTHDT\SERVICES\obj\Debug\net5.0\SERVICES.csproj.CopyComplete
+C:\Users\TRONG\Desktop\DoAn_LTHDT\SERVICES\obj\Debug\net5.0\SERVICES.dll
+C:\Users\TRONG\Desktop\DoAn_LTHDT\SERVICES\obj\Debug\net5.0\ref\SERVICES.dll
+C:\Users\TRONG\Desktop\DoAn_LTHDT\SERVICES\obj\Debug\net5.0\SERVICES.pdb

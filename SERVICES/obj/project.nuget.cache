@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/9riwDAjeT4JZ6EtsSMk6ZbU/kdvH0lgwy/m6Rv7JhtWeYNsCsOJmcLJRwbcr+MK3y38cnNwNbsoinmac1tFhA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\TRONG\\Desktop\\DoAn_LTHDT\\SERVICES\\SERVICES.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TRONG\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

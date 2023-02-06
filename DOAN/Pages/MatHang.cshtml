@@ -1,0 +1,41 @@
+﻿@page
+@model DOAN.Pages.MatHangModel
+@using ENTITIES
+
+<h4>Mặt Hàng</h4>
+<form method="post">
+    <label>Tìm kiếm</label>
+    <input type="text" name="tuKhoa" pattern="^[^\s]+(\s+[^\s]+)*$">
+    <button type="submit" value="Tìm kiếm">Tìm Kiếm</button>
+    <a href='themMatHang'><button type="button">Thêm</button></a>
+    <a href="index"><button type="button">Index</button></a>
+</form>
+<br>
+<table>
+    <tr>
+        <td>Mã Hàng</td>
+        <td>Tên Hàng</td>
+        <td>Hạn dùng</td>
+        <td>Công Ty Sản Xuất</td>
+        <td>Ngày Sản Xuất</td>
+        <td>Đơn Giá</td>
+        <td>Loại Hàng</td>
+        <td></td>
+    </tr>
+    @foreach (MatHang mh in Model.dsMatHang)
+    {
+        <tr>
+            <td>@mh.maHang</td>
+            <td>@mh.tenHang</td>
+            <td>@mh.hanDung.Ngay/@mh.hanDung.Thang/@mh.hanDung.Nam</td>
+            <td>@mh.congTySanXuat</td>
+            <td>@mh.ngaySanXuat.Ngay/@mh.ngaySanXuat.Thang/@mh.ngaySanXuat.Nam</td>
+            <td>@mh.donGia</td>
+            <td>@mh.loaiHang</td>
+            <td>
+                <button type="button" onclick="location.href='suaMatHang?id=@mh.maHang'">Sửa</button>
+                <button type="button" onclick="location.href='xoaMatHang?id=@mh.maHang'">Xóa</button>
+            </td>
+        </tr>
+}
+</table>
